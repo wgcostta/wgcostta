@@ -15,4 +15,4 @@ Meu nome é Wagner Costa e sou desenvolvedor back-end.
 
 - :blue_heart: Apaixonado por Tecnologia
 - :coffee: Java
-- :green_heart: NoSQL
+- :green_heart: Angular
