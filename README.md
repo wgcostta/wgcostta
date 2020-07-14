@@ -4,8 +4,8 @@
 
 ### Seja bem-vindo ao meu perfil
 
-Meu nome é Wagner Costa e sou desenvolvedor back-end.
+Meu nome é Wagner Costa e sou desenvolvedor Full-Stack
 
 - :blue_heart: Apaixonado por Tecnologia
-- :coffee: Java
-- :green_heart: Angular
+- :coffee: Delphi
+- :star-struck: Angular, Flutter, VueJS
