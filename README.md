@@ -7,5 +7,5 @@
 Meu nome é Wagner Costa e sou desenvolvedor Full-Stack
 
 - :blue_heart: Apaixonado por Tecnologia
-- :coffee: Delphi
+- :coffee: Delphi, Java, PHP, Python, Spring
 - :star_struck: Angular, Flutter, VueJS
