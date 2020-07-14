@@ -8,4 +8,4 @@ Meu nome é Wagner Costa e sou desenvolvedor Full-Stack
 
 - :blue_heart: Apaixonado por Tecnologia
 - :coffee: Delphi
-- :star-struck: Angular, Flutter, VueJS
+- :star_struck: Angular, Flutter, VueJS
