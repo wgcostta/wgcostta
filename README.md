@@ -1,9 +1,11 @@
 <div align="center">
 ### Wagner Costa :nerd_face:
+## Wagner Costa :nerd_face:
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
 
-### Seja bem-vindo ao meu perfil
+## Seja bem-vindo ao meu perfil
 
 Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 
