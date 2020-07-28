@@ -11,7 +11,7 @@ Meu nome é Wagner Costa e sou desenvolvedor Full-Stack
 - :star_struck: Angular, Flutter, VueJS
 
 ```
-Projeto em Angular On-line com Backend em Node e MongoDB:
+Projeto em Angular On-line com Backend em Node com Express e banco de dados MongoDB:
 ```
 https://angular-9-crud-front-and-back-end-cod3er.vercel.app/products
 ```
