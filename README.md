@@ -12,8 +12,8 @@ Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 - :star_struck: Angular, Flutter, VueJS
 
 
-Projeto em Angular On-line com Backend em Node com Express e banco de dados MongoDB:
+Projeto On-line disponível: 
 [Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app/products)
 
-Repositórios: [Frontend](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) [Backend](https://github.com/wgcostta/node-express-backend-mongoDB-online) 
+Repositórios: [Frontend:](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) Angular e [Backend:](https://github.com/wgcostta/node-express-backend-mongoDB-online) Node com Express e banco de dados MongoDB:
 </div>
