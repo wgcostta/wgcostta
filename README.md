@@ -8,8 +8,8 @@
 Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 
 - :blue_heart: Apaixonado por Tecnologia
-- :coffee: Delphi, Java, PHP, Python, Spring
-- :star_struck: Angular, Flutter, VueJS
+- :coffee: Node, Java, PHP, Python, Spring, Delphi
+- :star_struck: Angular, Flutter, VueJS, React
 
 > [Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app) disponível para testes. <<<
 
