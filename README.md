@@ -16,7 +16,7 @@ Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 Repositórios: [Frontend:](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) Angular e [Backend:](https://github.com/wgcostta/node-express-backend-mongoDB-online) Node com Express e banco de dados MongoDB:
 
   <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app/">
-    <img width="500" src="./ProjetoOnLine.png">
+    <img width="500" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
   </a>
   
 </div>
