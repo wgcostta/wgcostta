@@ -44,7 +44,11 @@ Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 
 > [Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app) disponível para testes. <<<
 
-Repositórios: [Frontend:](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) Angular e [Backend:](https://github.com/wgcostta/node-express-backend-mongoDB-online) Node com Express e banco de dados MongoDB:
+Repositórios: [Frontend:](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+e [Backend:](https://github.com/wgcostta/node-express-backend-mongoDB-online) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+com Express e banco de dados MongoDB:
 
   <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app/">
     <img width="500" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
