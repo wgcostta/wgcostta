@@ -15,7 +15,7 @@ Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 ![PHP](https://img.shields.io/badge/-PHP-0089D6?style=flat-square&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-41BF47?style=flat-square&logo=python&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white) 
-![Delphi](https://img.shields.io/badge/-Delphi-E0234E?style=flat-square&logo=delphi&logoColor=white)
+![Delphi](https://img.shields.io/badge/-Delphi-E0234E?style=flat-square&logo=embarcadero&logoColor=white)
 
 ## ⚡ Technologies
 
