@@ -1,7 +1,7 @@
 <div align="center">
+Seja bem-vindo ao meu perfil, me chamo Wagner Costa, Brasileiro e desde 2011 trabalho com tecnologia, atualmente sou desenvolvedor Full-Stack em constante evolução.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/) Wagner Costa
-Seja bem-vindo ao meu perfil, sou Brasileiro e desde 2011 trabalho com tecnologia, atualmente sou desenvolvedor Full-Stack em constante evolução.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
 
 ### ⚡ Apaixonado pelas Tecnologias
 
