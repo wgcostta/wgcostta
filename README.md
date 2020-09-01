@@ -12,10 +12,11 @@ Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-6DB33F?style=flat-square&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-6DB33F?style=flat-square&logo=python&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-6DB33F?style=flat-square&logo=flutter&logoColor=white) 
-Delphi, PHP, Python, Flutter
+![PHP](https://img.shields.io/badge/-PHP-0089D6?style=flat-square&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-41BF47?style=flat-square&logo=python&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white) 
+![Delphi](https://img.shields.io/badge/-Delphi-E0234E?style=flat-square&logo=delphi&logoColor=white)
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
