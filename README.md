@@ -1,7 +1,7 @@
 <div align="center">
 
-Seja bem-vindo ao meu perfil. Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack! 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/) Wagner Costa
+Seja bem-vindo ao meu perfil, sou Brasileiro e desde 2011 trabalho com tecnologia, atualmente sou desenvolvedor Full-Stack em constante evolução.
 
 ### ⚡ Apaixonado pelas Tecnologias
 
@@ -18,7 +18,7 @@ Seja bem-vindo ao meu perfil. Meu nome é Wagner Oliveira da Costa e sou desenvo
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### :coffee: Entre Outras:
+### :coffee: Com conhecimento também em:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -37,8 +37,7 @@ Seja bem-vindo ao meu perfil. Meu nome é Wagner Oliveira da Costa e sou desenvo
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-> [Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app) disponível para testes. <<<
+[Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app) disponível para testes.
 
 Repositórios: [Frontend:](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
