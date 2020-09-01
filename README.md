@@ -48,7 +48,7 @@ Repositórios: [Frontend:](https://github.com/wgcostta/angular-9-CRUD-frontAndBa
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 e [Backend:](https://github.com/wgcostta/node-express-backend-mongoDB-online) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-com Express e banco de dados MongoDB:
+com Express e banco de dados ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb):
 
   <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app/">
     <img width="500" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
