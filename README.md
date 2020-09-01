@@ -1,10 +1,12 @@
 <div align="center">
  
-# Wagner Costa [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
 
-Seja bem-vindo ao meu perfil. Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack!
 
-## ⚡ Apaixonado pelas Tecnologias
+Seja bem-vindo ao meu perfil. Meu nome é Wagner Oliveira da Costa 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
+e sou desenvolvedor Full-Stack!
+
+### ⚡ Apaixonado pelas Tecnologias
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
