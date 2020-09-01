@@ -8,7 +8,10 @@
 Meu nome é Wagner Oliveira da Costa e sou desenvolvedor Full-Stack
 
 - :blue_heart: Apaixonado por Tecnologia
-- :coffee: ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java), ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white), Delphi, PHP, Python
+- :coffee: 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) Delphi, PHP, Python
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
