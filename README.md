@@ -1,6 +1,6 @@
 <div align="center">
   
-Seja bem-vindo ao meu perfil, me chamo Wagner Costa, sou Brasileiro e desde 2011 atuo com tecnologia, 
+Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 atuo com tecnologia, 
 <br/>  atualmente sou desenvolvedor Full-Stack, trabalho e me atualizo para que meu conhecimento esteja em constante evolução.
 <br/>  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
 
