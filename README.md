@@ -4,22 +4,20 @@ Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 at
 <br/>  atualmente sou desenvolvedor Full-Stack, trabalho e me atualizo para que meu conhecimento esteja em constante evolução.
 <br/>  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmichi/)](https://www.linkedin.com/in/gabrielmichi/)
-
 ### ⚡ Apaixonado pelas Tecnologias
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-0089D6?style=flat-square&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-41BF47?style=flat-square&logo=python&logoColor=white) 
-![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=flat-square&logo=flutter&logoColor=white) 
-![Delphi](https://img.shields.io/badge/-Delphi-E0234E?style=flat-square&logo=embarcadero&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-0089D6?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-41BF47?style=for-the-badge&logo=python&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-4285F4?style=for-the-badge&logo=flutter&logoColor=white) 
+![Delphi](https://img.shields.io/badge/-Delphi-E0234E?style=for-the-badge&logo=embarcadero&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### :coffee: Com conhecimento também em:
 
