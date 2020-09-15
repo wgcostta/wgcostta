@@ -2,7 +2,9 @@
   
 Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 atuo com tecnologia, 
 <br/>  atualmente sou desenvolvedor Full-Stack, trabalho e me atualizo para que meu conhecimento esteja em constante evolução.
-<br/>  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
+<br/>  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmichi/)](https://www.linkedin.com/in/gabrielmichi/)
 
 ### ⚡ Apaixonado pelas Tecnologias
 
