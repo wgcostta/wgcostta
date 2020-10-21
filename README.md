@@ -44,7 +44,7 @@ Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 at
     <tr>
         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=wgcostta&theme=dracula"/></td>
         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgcostta&layout=compact&theme=dracula" /></td>
-        <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=wgcostta&theme=dracula&layout=compact"/></td>
+       <!-- <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=wgcostta&theme=dracula&layout=compact"/></td>-->
     </tr>   
   </table>
 </center>  
