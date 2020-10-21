@@ -39,6 +39,15 @@ Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 at
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=wgcostta&theme=dracula"/></td>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgcostta&layout=compact&theme=dracula" /></td>
+        <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=wgcostta&theme=dracula&layout=compact"/></td>
+    </tr>   
+  </table>
+</center>  
 
 
 [Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app) disponível para testes.
