@@ -1,15 +1,5 @@
-<div align="center">
-<style>
-body {
-    background-color: #93B874;
-}
-h1 {
-    background-color: #00b33c;
-}
-p {
-    background-color: #FFFFFF);
-}
-    </style>
+<div align="center" style="backgroudcolor: red;">
+
   
 Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 atuo com tecnologia, 
 <br/>  atualmente sou desenvolvedor Full-Stack, trabalho e me atualizo para que meu conhecimento esteja em constante evolução.
