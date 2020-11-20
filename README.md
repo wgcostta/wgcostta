@@ -53,6 +53,8 @@ Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 at
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+
+### Recent Acitivies ✨
 <center>
   <table>
     <tr>
@@ -79,12 +81,3 @@ com Express e banco de dados ![MongoDB](https://img.shields.io/badge/-MongoDB-bl
 
 
 
-### Recent Acitivies ✨
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabneri&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=anabneri&theme=radical&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
