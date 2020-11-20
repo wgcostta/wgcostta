@@ -1,4 +1,4 @@
-<div align="center" style="backgroudcolor: black;">
+<div align="center" style="color: red;">
 
   
 Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 atuo com tecnologia, 
