@@ -9,6 +9,7 @@ h1 {
 p {
     background-color: #FFFFFF);
 }
+    </style>
   
 Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 atuo com tecnologia, 
 <br/>  atualmente sou desenvolvedor Full-Stack, trabalho e me atualizo para que meu conhecimento esteja em constante evolução.
@@ -91,4 +92,4 @@ com Express e banco de dados ![MongoDB](https://img.shields.io/badge/-MongoDB-bl
 
 
 
-</style>
+
