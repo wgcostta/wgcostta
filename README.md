@@ -1,4 +1,5 @@
-Hey there, my name is Wagner I'm Brazilian and since 2011 I work with technology,
+## Hey there, my name is Wagner 
+I'm Brazilian and since 2011 I work with technology,
 <br/> Full-Stack Developer - Java and Angular
 
 <p align="right" >
