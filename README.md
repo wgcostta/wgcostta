@@ -5,9 +5,7 @@ Hey there, my name is Wagner I'm Brazilian and since 2011 I work with technology
 <a href="https://www.linkedin.com/in/wagnercostta/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
-  </p>
-<p align="right" >
-<a href="mailto:wg.o.costa@gmail.com">
+  <a href="mailto:wg.o.costa@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
   </p>
