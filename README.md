@@ -1,14 +1,16 @@
 Hey there, my name is Wagner I'm Brazilian and since 2011 I work with technology,
 <br/> Full-Stack Developer - Java and Angular
 
-
-<a align="right" href="https://www.linkedin.com/in/wagnercostta/">
+<p align="right" >
+<a href="https://www.linkedin.com/in/wagnercostta/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
-
-<a align="right" href="mailto:wg.o.costa@gmail.com">
+  </p>
+<p align="right" >
+<a href="mailto:wg.o.costa@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
+  </p>
 
 ### ⚡ Apaixonado pelas Tecnologias
 
