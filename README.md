@@ -1,15 +1,12 @@
+Hey there, my name is Wagner I'm Brazilian and since 2011 I work with technology,
+<br/> Full-Stack Developer - Java and Angular
 
 
-  
-Seja bem-vindo ao meu perfil, meu nome é Wagner, sou Brasileiro e desde 2011 atuo com tecnologia, 
-<br/>  atualmente sou desenvolvedor Full-Stack, trabalho e me atualizo para que meu conhecimento esteja em constante evolução.
-<br/>  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercostta/)
-
-<a href="https://www.linkedin.com/in/wagnercostta/">
+<a align="right" href="https://www.linkedin.com/in/wagnercostta/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
-<a href="mailto:wg.o.costa@gmail.com">
+<a align="right" href="mailto:wg.o.costa@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
