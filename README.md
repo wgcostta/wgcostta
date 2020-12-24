@@ -74,7 +74,7 @@ e [Backend:](https://github.com/wgcostta/node-express-backend-mongoDB-online)
 com Express e banco de dados ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb):
 
   <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app/">
-    <img width="400" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
+    <img align="right" width="400" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
   </a>
   
 </div>
