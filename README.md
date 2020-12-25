@@ -92,16 +92,17 @@ Full-Stack Developer - Java and Angular
     <tr>
         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=wgcostta&theme=dracula"/></td>
         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgcostta&layout=compact&theme=dracula" /></td>
-       <!-- <td><img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=wgcostta&theme=dracula&layout=compact"/></td>-->
     </tr>   
   </table>
 </center>  
 
+### Project in Production ✨
+
 <center>
-  <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app"> Projeto em Angular CLI - Versão 9 disponível para testes. </a>
-Repositórios: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er"> Frontend</a> e <a href="https://github.com/wgcostta/node-express-backend-mongoDB-online"> Backend</a> 
-  
 <div align="center" style="color: red;">
+  
+<a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app"> Project developed with Angular available for testing. </a>
+Repositórios: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er"> Frontend</a> e <a href="https://github.com/wgcostta/node-express-backend-mongoDB-online"> Backend</a> 
   
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
