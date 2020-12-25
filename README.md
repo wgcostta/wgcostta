@@ -97,7 +97,7 @@ Full-Stack Developer - Java and Angular
 <div>
   
 <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app"> Developed with Angular available for testing. </a>
-Repositórios: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er"> Frontend</a> e <a href="https://github.com/wgcostta/node-express-backend-mongoDB-online"> Backend</a> 
+repositories: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er"> Frontend</a> e <a href="https://github.com/wgcostta/node-express-backend-mongoDB-online"> Backend</a> 
   
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
