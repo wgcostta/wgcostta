@@ -111,6 +111,6 @@ repositories: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackEn
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/wgcostta/wgcostta" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/wgcostta" alt="Visitors badge" />
    </a>
 </p>
