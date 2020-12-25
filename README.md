@@ -55,7 +55,7 @@ Full-Stack Developer - Java and Angular
   <code>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
   <code>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/embarcadero/embarcadero.png" alt="Delphi"/></code>
+  <img height="32" src="https://img.shields.io/badge/-Delphi-E0234E?style=for-the-badge&logo=embarcadero&logoColor=white" alt="Delphi"/></code>
 
 
 ![PHP](https://img.shields.io/badge/-PHP-0089D6?style=for-the-badge&logo=php&logoColor=white) 
