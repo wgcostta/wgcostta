@@ -97,20 +97,18 @@ Full-Stack Developer - Java and Angular
   </table>
 </center>  
 
-<div>
+<center>
 [Projeto em Angular CLI - Versão 9](https://angular-9-crud-front-and-back-end-cod3er.vercel.app) disponível para testes.
 <br/>  Repositórios: [Frontend](https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er) [Backend](https://github.com/wgcostta/node-express-backend-mongoDB-online) 
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb):
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
   <a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app/">
-    <img align="right" width="400" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
+    <img align="center" width="400" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
   </a>
   
-</div>
-
-
+</center>
 
 
 <p align="right">
