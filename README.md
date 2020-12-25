@@ -37,10 +37,6 @@ Full-Stack Developer - Java and Angular
 <code><img height="32" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 </code>
 <code>
-  <img alt="Mysql" height="32"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</code>
-<code>
   <img  alt="AWS" height="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 </code>
 <code>
@@ -98,10 +94,9 @@ Full-Stack Developer - Java and Angular
 
 ### Project in Production ✨
 
-<center>
-<div align="center" style="color: red;">
+<div>
   
-<a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app"> Project developed with Angular available for testing. </a>
+<a href="https://angular-9-crud-front-and-back-end-cod3er.vercel.app"> Developed with Angular available for testing. </a>
 Repositórios: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackEnd-Cod3er"> Frontend</a> e <a href="https://github.com/wgcostta/node-express-backend-mongoDB-online"> Backend</a> 
   
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -112,8 +107,6 @@ Repositórios: <a href="https://github.com/wgcostta/angular-9-CRUD-frontAndBackE
     <img width="400" src="https://github.com/wgcostta/wgcostta/blob/master/ProjetoOnLine.png">
   </a>
 </div>
-  
-</center>
 
 
 <p align="right">
