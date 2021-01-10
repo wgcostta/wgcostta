@@ -87,8 +87,8 @@ Full-Stack Developer - Java and Angular
 ![DELPHI](https://img.shields.io/badge/-Delphi-E0234E?style=flat-square&logo=embarcadero&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-
+![Expo](https://img.shields.io/static/v1?label=expo&message=40.0.0&color=F2F2F2&style=flat-square&logo=expo)
+![npm](https://img.shields.io/static/v1?label=npm&message=6.14.9&color=C53534&style=flat-square&logo=npm)
 
 ### Recent Acitivies ✨
 <center>
