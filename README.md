@@ -8,7 +8,8 @@ Full-Stack Developer - Java and Angular
 ### Where to find me:
 <p>
     <a href="https://www.linkedin.com/in/wagnercostta/">
-    <code> <img alt="LinkedIn" width="32" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></code>
+    <code> <img alt="LinkedIn" width="32" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></code>
+
     </a>
 <a href="mailto:wg.o.costa@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://img.icons8.com/color/48/000000/gmail--v1.png" /></code>
